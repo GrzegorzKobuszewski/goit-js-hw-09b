@@ -1,8 +1,8 @@
 {
-  "name": "goit-js-hw-9b",
+  "name": "goit-js-hw-09b",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://grzegorzkobuszewski.github.io/goit-js-hw-9b/",
+  "homepage": "https://grzegorzkobuszewski.github.io/goit-js-hw-09b/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-9b/"
