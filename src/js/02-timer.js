@@ -33,7 +33,7 @@ const options = {
             } else {
                 startButton.disabled = false;
                 localStorage.setItem('selectedDate', `${selectedDates[0].getTime()}`);
-                return selectedDate = selectedDates[0];
+                return selectedDates[0];
             }
     },
 };
