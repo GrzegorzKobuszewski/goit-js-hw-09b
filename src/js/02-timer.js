@@ -84,10 +84,10 @@ const countdown = () => {
 
         } else {
             Notiflix.Notify.success('Countdown finished');
-            clearInterval(timer);
+            clearInterval(timerId);
         }
     }, 1000);
-};  
+};
 
 
 
